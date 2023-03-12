@@ -139,7 +139,7 @@ header .navbar ul li a:hover{
 }
 
 #menu{
-    position: fixed;
+    position: absolute;
     top:2rem;right:2rem;
     background: #333;
     color:#fff;
